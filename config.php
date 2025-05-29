@@ -1,8 +1,8 @@
 <?php
 // Andmebaasi ühenduse seadistused
 $servername = "localhost";
-$username = "vso24kirk"; // Muuda vastavalt oma cPanel kasutajanimele
-$password = ";.?aI}F3Jw}W"; 
+$username = ""; // Muuda vastavalt oma cPanel kasutajanimele
+$password = ""; // cPanel parool
 $dbname = "vso24kirk_h22letus";
 
 // Loo ühendus
